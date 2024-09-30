@@ -29,6 +29,8 @@ The model achieves an impressive **training accuracy of 0.9771**, demonstrating 
 - **Recall** indicates the ability to identify all instances of a genre. For example, *classical* achieved a high recall of 0.99, meaning nearly all classical tracks in the test set were correctly classified.
 - The **F1-score** offers a balanced view of precision and recall, providing insight into the model’s performance for each genre. Genres such as *blues* and *disco* perform particularly well, with high F1-scores reflecting accurate classification.
 
+- 
+
 ### Visualization of Audio Data
 
 The system provides visual representations of both the waveform and the spectrogram of the audio file. Waveforms depict the raw audio signal, while spectrograms show the intensity of different frequencies over time. These visual aids help users understand the features being extracted and how they relate to the final classification.
@@ -41,3 +43,10 @@ Music genre classification has several practical applications:
 - **Playlist Generation**: Automatically generating playlists based on user preferences by classifying genres.
 
 In conclusion, this deep learning-based music genre classification system demonstrates the potential of using CNNs for audio analysis. With efficient feature extraction, the use of the Adam optimizer, and strong performance metrics, this system offers an effective solution for automating the classification of music genres.
+
+![Screenshot 2024-09-30 130452](https://github.com/user-attachments/assets/48c1c82b-3693-440d-a5e9-09d23684cb8b)
+![Screenshot 2024-09-30 130510](https://github.com/user-attachments/assets/7c361bf9-a535-4379-be59-ba2f3df37788)
+![Screenshot 2024-09-30 130544](https://github.com/user-attachments/assets/9724c0ba-69fe-4594-a364-77a303e80f2d)
+![Screenshot 2024-09-30 130600](https://github.com/user-attachments/assets/e1e3bc5f-a888-4330-a3cb-e62de007d9dd)
+
+
