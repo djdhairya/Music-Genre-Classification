@@ -29,7 +29,8 @@ The model achieves an impressive **training accuracy of 0.9771**, demonstrating 
 - **Recall** indicates the ability to identify all instances of a genre. For example, *classical* achieved a high recall of 0.99, meaning nearly all classical tracks in the test set were correctly classified.
 - The **F1-score** offers a balanced view of precision and recall, providing insight into the model’s performance for each genre. Genres such as *blues* and *disco* perform particularly well, with high F1-scores reflecting accurate classification.
 
-- 
+- ![Screenshot 2024-09-30 152516](https://github.com/user-attachments/assets/611e1194-14a0-4e02-87fc-ac87f0fcd316)
+
 
 ### Visualization of Audio Data
 
